@@ -1,0 +1,15 @@
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\kursachForAxl\kursachForAxl\bin\Debug\kursachForAxl.exe.config
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\kursachForAxl\kursachForAxl\bin\Debug\kursachForAxl.exe
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\kursachForAxl\kursachForAxl\bin\Debug\kursachForAxl.pdb
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\kursachForAxl\kursachForAxl\obj\Debug\kursachForAxl.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\kursachForAxl\kursachForAxl\obj\Debug\kursachForAxl.Form1.resources
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\kursachForAxl\kursachForAxl\obj\Debug\kursachForAxl.Properties.Resources.resources
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\kursachForAxl\kursachForAxl\obj\Debug\kursachForAxl.csproj.GenerateResource.Cache
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\kursachForAxl\kursachForAxl\obj\Debug\kursachForAxl.exe
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\kursachForAxl\kursachForAxl\obj\Debug\kursachForAxl.pdb
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\kursachForAxl\kursachForAxl\obj\Debug\kursachForAxl.Authentication.resources
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\kursachForAxl\kursachForAxl\obj\Debug\kursachForAxl.DataBase.resources
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\kursachForAxl\kursachForAxl\bin\Debug\WarehouseData.sdf
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\kursachForAxl\kursachForAxl\obj\Debug\kursachForAxl.Adminka.resources
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\kursachForAxl\kursachForAxl\obj\Debug\kursachForAxl.SelectedItem.resources
+C:\Users\Vlad\Documents\Visual Studio 2012\Projects\kursachForAxl\kursachForAxl\obj\Debug\kursachForAxl.EditDBase.resources
